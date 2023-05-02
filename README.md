@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aclonica&pause=1000&color=47E13A&background=DAC6FF00&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+Paing+Sett+Kyaw.;I+am+also+a+MERN+Stack+Web+Developer+from+Myanmar.)](https://git.io/typing-svg)
+[<img src="https://raw.githubusercontent.com/DaDDy-chilll/DaDDy-chilll/master/intro.gif" alt=" Hello World! I'm (Paing Sett Kyaw |MERN Stack Web Developer|so Handsome 😎)" title="👋 Hi there! I'm (Paing Sett Kyaw |MERN Stack Web Developer|so Handsome 😎)" />](https://github.com/DaDDy-chilll)
 
 <h2> Things I Code with </h2>
 <h3>Front-end</h3>
@@ -21,7 +21,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /></a>
 </p>
-<h2>Mobile Development</h2>
+<h3>Mobile Development</h3>
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
 </p>
@@ -31,11 +31,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
 </p>
-<h2>Test</h2>
+<h3>Test</h3>
 <p align="left">
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /></a>
 </p>
-<h2>Tools</h2>
+<h3>Tools</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
