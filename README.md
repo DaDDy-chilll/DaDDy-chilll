@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=40&pause=1000&color=F70B0B&background=DAC6FF00&center=true&vCenter=true&width=800&height=60&lines=Hello+World!+I+am+Paing+Sett+Kyaw.;I+am+also+a+MERN+Stack+Web+Developer+from+Myanmar.;Yap+I+known%2C+I'm+so+Handsome+😎)](https://github.com/DaDDy-chilll)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=40&pause=1000&color=F70B0B&background=DAC6FF00&center=true&vCenter=true&width=900&height=60&lines=Hello+World!+I+am+Paing+Sett+Kyaw.;I+am+also+a+MERN+Stack+Web+Developer+from+Myanmar.;Yap+I+known%2C+I'm+so+Handsome+😎)](https://github.com/DaDDy-chilll)
 
 <h2> Things I Code with </h2>
 <h3>Front-end</h3>
