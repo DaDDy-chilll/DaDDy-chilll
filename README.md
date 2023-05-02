@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/DaDDy-chilll/DaDDy-chilll/master/intro.gif" alt=" Hello World! I'm (Paing Sett Kyaw |MERN Stack Web Developer|so Handsome 😎)" title="👋 Hi there! I'm (Paing Sett Kyaw |MERN Stack Web Developer|so Handsome 😎)" />](https://github.com/DaDDy-chilll)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aclonica&pause=1000&color=47E13A&background=DAC6FF00&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+Paing+Sett+Kyaw.;I+am+also+a+MERN+Stack+Web+Developer+from+Myanmar.)](https://git.io/typing-svg)
 
 <h2> Things I Code with </h2>
 <h3>Front-end</h3>
@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
 </p>
-### Where to find me
+ <h2>Where to find me</h2>
 <p>
 <a href="https://github.com/DaDDy-chilll" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/PaingSettKyaw" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
