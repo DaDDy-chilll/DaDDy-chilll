@@ -58,6 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daddy-chilll&" alt="daddy-chilll" /></p>
  </P>
+ <img src="https://profile-counter.glitch.me/daddy-chilll/count.svg" />
 <p>
 <a href="https://app.daily.dev/DaDDy"><img src="https://api.daily.dev/devcards/dbea3e18bc5841f1b64b8c76e5754199.png?r=ppg" width="400" alt="DaDDy's Dev Card"/></a>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
