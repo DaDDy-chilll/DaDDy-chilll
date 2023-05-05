@@ -58,6 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daddy-chilll&" alt="daddy-chilll" /></p>
  </P>
+ <h3>Visit Count</h3>
  <img src="https://profile-counter.glitch.me/daddy-chilll/count.svg" />
 <p>
 <a href="https://app.daily.dev/DaDDy"><img src="https://api.daily.dev/devcards/dbea3e18bc5841f1b64b8c76e5754199.png?r=ppg" width="400" alt="DaDDy's Dev Card"/></a>
