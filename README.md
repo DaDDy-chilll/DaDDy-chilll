@@ -52,11 +52,11 @@
  </p>
  <p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daddy-chilll&show_icons=true&locale=en&layout=compact" alt="daddy-chilll" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daddy-chilll&show_icons=true&locale=en&layout=compact&theme=radical" alt="daddy-chilll" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daddy-chilll&show_icons=true&locale=en" alt="daddy-chilll" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daddy-chilll&show_icons=true&locale=en&theme=radical" alt="daddy-chilll" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daddy-chilll&" alt="daddy-chilll" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daddy-chilll&theme=radical" alt="daddy-chilll" /></p>
  </P>
  <h3>Visit Count</h3>
  <img src="https://profile-counter.glitch.me/daddy-chilll/count.svg" />
